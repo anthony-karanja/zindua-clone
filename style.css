@@ -1,0 +1,48 @@
+*{
+  padding: 0%;
+  margin: 0%;  
+}
+
+.navbar{
+    font-size: large;
+    display: flex;
+    padding: 40px 15px;
+    background-color: whitesmoke;
+}
+.logo{
+    font-size: xx-large;
+    color: black;
+}
+.left span{
+  padding: 15px 30px;
+  margin: 15px;
+  font-size: large;
+font-style: unset;
+}
+.right button{
+  color: red;
+  padding: 30px;
+  margin: 15px;
+}
+.bottom h2{
+  color: red;
+  font-size: x-large;
+}
+.bottom h3{
+  font-size: larger;
+}
+.bottom {
+  font-size: 25px;
+}
+.table{
+  color: black;
+  padding: 10px;
+  display: flex;
+}
+.image{
+  height: 30px;
+  width: 15px;
+}
+.hero-section{
+  display: flex;
+}
