@@ -35,9 +35,10 @@ font-style: unset;
   font-size: 25px;
 }
 .table{
-  color: black;
+  color: red;
   padding: 10px;
   display: flex;
+  background-color: whitesmoke;
 }
 .image{
   height:5px;
