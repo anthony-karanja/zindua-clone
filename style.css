@@ -13,6 +13,10 @@
     font-size: xx-large;
     color: black;
 }
+.app{
+  display: flex; 
+  color: white;
+}
 .left span{
   padding: 15px 30px;
   margin: 15px;
@@ -34,16 +38,67 @@ font-style: unset;
 .bottom {
   font-size: 25px;
 }
-.table{
-  color: red;
-  padding: 10px;
+.table {
   display: flex;
-  background-color: whitesmoke;
+  font-size: 30px;
 }
 .image{
-  height:5px;
-  width: 10px;
-}
-.hero-section{
+  height: 500px;
+  width: 200px;
+  padding: 40px;
   display: flex;
+  filter: grayscale();
+}
+.graduate{
+  display: flex;
+  color: whitesmoke;
+  background-color: black;
+  padding: 30px;
+  text-align: center;
+}
+.grazdyate .image{
+  padding: 30px;
+}
+.img{
+  display: flex;
+  background-color: black;
+  padding: 40px 50px;
+  width: 60px;
+  height: 40px;
+}
+.companie{
+  text-align: center;
+  background-color: black;
+}
+.info{
+  text-align: center;
+}
+.explore{
+  text-align: center;
+}
+.data{
+  list-style-type: circle;
+  
+}
+.container h1{
+  color: red;
+  font-size: x-large;
+}
+.card{
+  display: flex;
+  padding: 30px;
+  list-style-type: circle;
+  border-color: blue;
+  border-radius: 100%;
+}
+.btn{
+  display: flex;
+  font-size: medium;
+}
+.apply{
+  text-align: center;
+  background-color: black;
+}
+.apply h3{
+  color: white;
 }
